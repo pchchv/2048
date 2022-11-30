@@ -368,3 +368,4 @@ bool Game::check_if_lose()
     }
     cout << "\033[1;33mSorry, you have lost :(\033[0m" << endl;
     return (1);
+}
